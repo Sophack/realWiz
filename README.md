@@ -1,6 +1,6 @@
 # Real Wiz!
 
-## An app for busy realtors to keep up with their social media posts.
+## An app for busy realtors that automates social media posts.
 
 ## Table of Contents
 ### Demo
